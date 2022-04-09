@@ -3,8 +3,7 @@
 - 🛠️ I’m currently working with Perl, Nodejs, Express, React, Graphql, Mongodb, Javascript, Redis, PostgreSQL etc.
 - 📰 Reading & writing tech blogs whenever possible.
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
--  ![image](https://user-images.githubusercontent.com/102934155/162580915-b1b0b92c-c05e-4023-ac22-27c67945abc7.png)
- I enjoy listening music 🎧 playing futsal ⚽ and watching movies 🎦
+- 😀 I enjoy listening music 🎧 playing futsal ⚽ and watching movies 🎦
 
 
 <!---
