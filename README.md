@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bala
 - 👀 I love exploring new tech stack and building cool stuffs.
-- 🛠️ I’m currently working with Perl, Nodejs, Express, React, Graphql, Mongodb, Javascript, Redis, PostgreSQL etc.
+- 🛠️ I’m currently working with Perl, Nodejs, Express, Python, Javascript, Redis, PostgreSQL etc.
 - 📰 Reading & writing tech blogs whenever possible.
 - 👾 Fun fact: Equal is Not Always Equal in Javascript.
 - 😀 I enjoy listening to music 🎧 playing futsal ⚽ and watching movies 🎦
